@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+pytablefy/__init__.py
+pytablefy.egg-info/PKG-INFO
+pytablefy.egg-info/SOURCES.txt
+pytablefy.egg-info/dependency_links.txt
+pytablefy.egg-info/entry_points.txt
+pytablefy.egg-info/top_level.txt
+pytablefy.egg-info/zip-safe

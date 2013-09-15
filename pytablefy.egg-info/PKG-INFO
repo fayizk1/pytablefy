@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: pytablefy
+Version: 0.1dev
+Summary: A python SVG table library
+Home-page: UNKNOWN
+Author: Fayiz Musthafa
+Author-email: fayizk1@gmail.com
+License: MIT/X11 license
+Description: A python SVG table library
+Keywords: python table SVG PNG
+Platform: UNKNOWN
